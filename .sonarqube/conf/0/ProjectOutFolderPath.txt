@@ -1,0 +1,1 @@
+/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/0

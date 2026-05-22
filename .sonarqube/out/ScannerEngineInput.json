@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1779398611000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "blog-pessoal-dotnet"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "311D6E93-3517-4D9C-8E5B-AC7178B9D952"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.projectKey",
+      "value": "blog-pessoal-dotnet:311D6E93-3517-4D9C-8E5B-AC7178B9D952"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.projectName",
+      "value": "BlogPessoal"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.projectBaseDir",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.working.directory",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/.sonar/mod0"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.sources",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Config/JwtService.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Controllers/IAController.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Controllers/PostagemController.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Controllers/TemaController.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Controllers/UsuarioController.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Data/AppDbContext.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/DTOs/Dtos.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Migrations/20260520190322_InitialCreate.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Migrations/20260520190322_InitialCreate.Designer.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Migrations/AppDbContextModelSnapshot.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Models/Postagem.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Models/Tema.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Models/Usuario.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Models/UsuarioLogin.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Program.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Repositories/Interfaces.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Repositories/PostagemRepository.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Repositories/TemaRepository.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Repositories/UsuarioRepository.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Services/IA/GeminiService.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Services/IA/IIAService.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Services/IA/PromptBuilder.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Services/IUsuarioService.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/Services/UsuarioService.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/BlogPessoal.GlobalUsings.g.cs,\"/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/BlogPessoal.AssemblyInfo.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/BlogPessoal.MvcApplicationPartsAssemblyInfo.cs,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/appsettings.Development.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/appsettings.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.vscode/settings.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/project.assets.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/BlogPessoal.csproj.nuget.dgspec.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/bin/Debug/net10.0/BlogPessoal.staticwebassets.endpoints.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/bin/Debug/net10.0/appsettings.Development.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/bin/Debug/net10.0/BlogPessoal.runtimeconfig.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/bin/Debug/net10.0/BlogPessoal.deps.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/bin/Debug/net10.0/appsettings.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/rpswa.dswa.cache.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/staticwebassets.build.endpoints.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/staticwebassets.build.json,/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/obj/Debug/net10.0/rjsmrazor.dswa.cache.json"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.cs.analyzer.projectOutPaths",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/0"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.cs.roslyn.reportFilePaths",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/0/Issues.json"
+    },
+    {
+      "key": "311D6E93-3517-4D9C-8E5B-AC7178B9D952.sonar.cs.scanner.telemetry",
+      "value": "/media/mateus/F/Acelera Maker/BlogPessoal_Backend/BlogPessoal/.sonarqube/out/0/Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}
